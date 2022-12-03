@@ -209,7 +209,7 @@
         
         <!--==== Dependency Versions ==================================================================================-->
         
-        <gephi.sentry.version>5.7.3</gephi.sentry.version>
+        <gephi.sentry.version>5.7.4</gephi.sentry.version>
         
         <!--==== Plugin Versions ==================================================================================-->
 
