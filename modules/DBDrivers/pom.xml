@@ -19,7 +19,7 @@
         <gephi.sqlite.version>3.40.0.0</gephi.sqlite.version>
         <gephi.mysql.version>8.0.31</gephi.mysql.version>
         <gephi.postgresql.version>42.4.3</gephi.postgresql.version>
-        <gephi.sqlserver.version>11.2.1.jre11</gephi.sqlserver.version>
+        <gephi.sqlserver.version>11.2.4.jre8</gephi.sqlserver.version>
     </properties>
 
     <dependencies>
